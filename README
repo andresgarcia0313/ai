@@ -1,0 +1,3 @@
+Instalar tensorflow para nodejs
+npm init -y
+npm install @tensorflow/tfjs-node --save

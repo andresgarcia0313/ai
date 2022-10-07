@@ -1,0 +1,13 @@
+{
+  "name": "ai",
+  "version": "1.0.0",
+  "description": "Instalar tensorflow para nodejs\r npm init -y\r npm install @tensorflow/tfjs-node --save",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
